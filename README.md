@@ -1,4 +1,4 @@
-# Sales Data Analysis Report
+# Product Analysis Report
 
 ## Problem Statement
 
@@ -51,6 +51,9 @@ Use DAX to create the following calculated columns and measures:
 ### 4. Sales by Product & Segment
 - Create a chart or table that shows sales data by product and segment, helping to identify which products and segments are performing the best.
 
-## Conclusion
 
-By following these steps and conducting the analysis, you will provide the executive team with the insights they need to make informed decisions on future investments and strategies.
+
+
+
+
+
