@@ -53,7 +53,7 @@ Use DAX to create the following calculated columns and measures:
 
 # Dashboard
 
-![Raw data](https://github.com/user-attachments/assets/3094c9bd-9b40-4e7e-9d17-107dc6ba57ff)
+![Raw data](https://github.com/VK-Analyst/Finance-Dashboard/blob/565cd406a4af4a78a23c3e14ebdafd1b4deb3138/Screenshot%202025-03-19%20182934.png)
 
 
 
