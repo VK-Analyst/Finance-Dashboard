@@ -51,7 +51,9 @@ Use DAX to create the following calculated columns and measures:
 ### 4. Sales by Product & Segment
 - Create a chart or table that shows sales data by product and segment, helping to identify which products and segments are performing the best.
 
+# Dashboard
 
+![Raw data](https://github.com/user-attachments/assets/3094c9bd-9b40-4e7e-9d17-107dc6ba57ff)
 
 
 
